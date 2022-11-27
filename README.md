@@ -6,3 +6,16 @@ This is a refactor of the Horiseon website to **maximise the accesibility of the
 ## Screenshot
 
 ## Link to the deployed site
+[Horiseon Homepage] (https://natasha-16x.github.io/horiseon-code-refactor/)
+
+## Installation
+N/A
+
+## Usage 
+To use Horiseon Website, you can review the content in each section.
+
+## Credits
+N/A
+
+## License 
+MIT License

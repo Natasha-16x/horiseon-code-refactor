@@ -4,9 +4,10 @@
 This is a refactor of the Horiseon website to **maximise the accesibility of the web application**. This means that the website will be easily read by all users, irrespective of whether they have a disability or not. This is important as it **increases search engine optimisation**, which makes the website more likely to be seen by web users. This refactor solves the problem of people with disabilities not being able to have access to all parts of the website. 
 
 ## Screenshot
+![screenshot of horiseon website](C:\Users\user\Downloads\screencapture-natasha-16x-github-io-horiseon-code-refactor-2022-11-27-15_36_02.png "screenshot of horiseon website")
 
 ## Link to the deployed site
-[Horiseon Homepage] (https://natasha-16x.github.io/horiseon-code-refactor/)
+[Horiseon Homepage](https://natasha-16x.github.io/horiseon-code-refactor/)
 
 ## Installation
 N/A

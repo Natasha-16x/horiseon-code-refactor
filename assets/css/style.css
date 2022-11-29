@@ -36,9 +36,13 @@ body {
     list-style-type: none;
 }
 
+/* increased margin from 25px to 350px */
+/* changed font size to 20px */
+
 .header div ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 350px;
+    font-size: 20px;
 }
 
 a {
